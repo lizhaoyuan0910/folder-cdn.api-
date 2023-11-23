@@ -1,4 +1,231 @@
 {
+  "image": [
+    {
+      "key": 1,
+      "path": "image/bing/2023-08-22.jpg",
+      "filename": "2023-08-22.jpg"
+    },
+    {
+      "key": 2,
+      "path": "image/bing/2023-11-09.jpg",
+      "filename": "2023-11-09.jpg"
+    },
+    {
+      "key": 3,
+      "path": "image/bing/2023-11-22.jpg",
+      "filename": "2023-11-22.jpg"
+    }
+  ],
+  "music": [
+    {
+      "key": 1,
+      "author": "AGA",
+      "title": "Wonderful U",
+      "lrc": "music/AGA/Wonderful U/lrc",
+      "pic": "music/AGA/Wonderful U/pic.jpg",
+      "url": "music/AGA/Wonderful U/url.mp3"
+    },
+    {
+      "key": 2,
+      "author": "丁浩然",
+      "title": "我以为",
+      "lrc": "music/丁浩然/我以为/lrc",
+      "pic": "music/丁浩然/我以为/pic.jpg",
+      "url": "music/丁浩然/我以为/url.mp3"
+    },
+    {
+      "key": 3,
+      "author": "井胧",
+      "title": "把孤独当做晚餐",
+      "lrc": "music/井胧/把孤独当做晚餐/lrc",
+      "pic": "music/井胧/把孤独当做晚餐/pic.jpg",
+      "url": "music/井胧/把孤独当做晚餐/url.m4a"
+    },
+    {
+      "key": 4,
+      "author": "任然",
+      "title": "爱过的人",
+      "lrc": "music/任然/爱过的人/lrc",
+      "pic": "music/任然/爱过的人/pic.jpg",
+      "url": "music/任然/爱过的人/url.m4a"
+    },
+    {
+      "key": 5,
+      "author": "任然",
+      "title": "空空如也",
+      "lrc": "music/任然/空空如也/lrc",
+      "pic": "music/任然/空空如也/pic.jpg",
+      "url": "music/任然/空空如也/url.m4a"
+    },
+    {
+      "key": 5,
+      "author": "吉佑社",
+      "title": "不解释的结局",
+      "lrc": "music/吉佑社/不解释的结局/lrc",
+      "pic": "music/吉佑社/不解释的结局/pic.jpg",
+      "url": "music/吉佑社/不解释的结局/url.mp4"
+    },
+    {
+      "key": 6,
+      "author": "吉冈圣惠",
+      "title": "ブルーバード（青鸟）",
+      "lrc": "music/吉冈圣惠/ブルーバード（青鸟）/lrc",
+      "pic": "music/吉冈圣惠/ブルーバード（青鸟）/pic.jpg",
+      "url": "music/吉冈圣惠/ブルーバード（青鸟）/url.m4a"
+    },
+    {
+      "key": 7,
+      "author": "后弦",
+      "title": "下完这场雨",
+      "lrc": "music/后弦/下完这场雨/lrc",
+      "pic": "music/后弦/下完这场雨/pic.jpg",
+      "url": "music/后弦/下完这场雨/url.mp3"
+    },
+    {
+      "key": 8,
+      "author": "周华健",
+      "title": "难念的经",
+      "lrc": "music/周华健/难念的经/lrc",
+      "pic": "music/周华健/难念的经/pic.jpg",
+      "url": "music/周华健/难念的经/url.mp3"
+    },
+    {
+      "key": 9,
+      "author": "周杰伦",
+      "title": "一路向北",
+      "lrc": "music/周杰伦/一路向北/lrc",
+      "pic": "music/周杰伦/一路向北/pic.jpg",
+      "url": "music/周杰伦/一路向北/url.flac"
+    },
+    {
+      "key": 10,
+      "author": "周杰伦",
+      "title": "七里香",
+      "lrc": "music/周杰伦/七里香/lrc",
+      "pic": "music/周杰伦/七里香/pic.jpg",
+      "url": "music/周杰伦/七里香/url.flac"
+    },
+    {
+      "key": 11,
+      "author": "周杰伦",
+      "title": "兰亭序",
+      "lrc": "music/周杰伦/兰亭序/lrc",
+      "pic": "music/周杰伦/兰亭序/pic.jpg",
+      "url": "music/周杰伦/兰亭序/url.flac"
+    },
+    {
+      "key": 12,
+      "author": "周杰伦",
+      "title": "烟花易冷",
+      "lrc": "music/周杰伦/烟花易冷/lrc",
+      "pic": "music/周杰伦/烟花易冷/pic.jpg",
+      "url": "music/周杰伦/烟花易冷/url.flac"
+    },
+    {
+      "key": 10,
+      "author": "坂井泉水",
+      "title": "負けないで（不要认输）",
+      "lrc": "music/坂井泉水/負けないで（不要认输）/lrc",
+      "pic": "music/坂井泉水/負けないで（不要认输）/pic.jpg",
+      "url": "music/坂井泉水/負けないで（不要认输）/url.mp4"
+    },
+    {
+      "key": 11,
+      "author": "孟凡明",
+      "title": "只只",
+      "lrc": "music/孟凡明/只只/lrc",
+      "pic": "music/孟凡明/只只/pic.jpg",
+      "url": "music/孟凡明/只只/url.mp3"
+    },
+    {
+      "key": 12,
+      "author": "朴灿烈、Punch",
+      "title": " Stay With Me",
+      "lrc": "music/朴灿烈、Punch/ Stay With Me/lrc",
+      "pic": "music/朴灿烈、Punch/ Stay With Me/pic.jpg",
+      "url": "music/朴灿烈、Punch/ Stay With Me/url.mp3"
+    },
+    {
+      "key": 13,
+      "author": "李荣浩",
+      "title": "麻雀",
+      "lrc": "music/李荣浩/麻雀/lrc",
+      "pic": "music/李荣浩/麻雀/pic.jpg",
+      "url": "music/李荣浩/麻雀/url.m4a"
+    },
+    {
+      "key": 14,
+      "author": "林宝馨",
+      "title": "沉醉的青丝",
+      "lrc": "music/林宝馨/沉醉的青丝/lrc",
+      "pic": "music/林宝馨/沉醉的青丝/pic.jpg",
+      "url": "music/林宝馨/沉醉的青丝/url.m4a"
+    },
+    {
+      "key": 15,
+      "author": "江语",
+      "title": "Blue __.",
+      "lrc": "music/江语/Blue __./lrc",
+      "pic": "music/江语/Blue __./pic.jpg",
+      "url": "music/江语/Blue __./url.m4a"
+    },
+    {
+      "key": 16,
+      "author": "许嵩",
+      "title": "城府",
+      "lrc": "music/许嵩/城府/lrc",
+      "pic": "music/许嵩/城府/pic.jpg",
+      "url": "music/许嵩/城府/url.mp3"
+    },
+    {
+      "key": 17,
+      "author": "许嵩",
+      "title": "多余的解释",
+      "lrc": "music/许嵩/多余的解释/lrc",
+      "pic": "music/许嵩/多余的解释/pic.jpg",
+      "url": "music/许嵩/多余的解释/url.mp3"
+    },
+    {
+      "key": 18,
+      "author": "许嵩",
+      "title": "幻听",
+      "lrc": "music/许嵩/幻听/lrc",
+      "pic": "music/许嵩/幻听/pic.jpg",
+      "url": "music/许嵩/幻听/url.mp3"
+    },
+    {
+      "key": 19,
+      "author": "许嵩",
+      "title": "断桥残雪",
+      "lrc": "music/许嵩/断桥残雪/lrc",
+      "pic": "music/许嵩/断桥残雪/pic.jpg",
+      "url": "music/许嵩/断桥残雪/url.mp3"
+    },
+    {
+      "key": 17,
+      "author": "陈一发儿",
+      "title": "童话镇",
+      "lrc": "music/陈一发儿/童话镇/lrc",
+      "pic": "music/陈一发儿/童话镇/pic.jpg",
+      "url": "music/陈一发儿/童话镇/url.mp3"
+    },
+    {
+      "key": 18,
+      "author": "陈壹千",
+      "title": "其实，我就在你的方圆几里",
+      "lrc": "music/陈壹千/其实，我就在你的方圆几里/lrc",
+      "pic": "music/陈壹千/其实，我就在你的方圆几里/pic.jpg",
+      "url": "music/陈壹千/其实，我就在你的方圆几里/url.mp3"
+    },
+    {
+      "key": 19,
+      "author": "韩安旭",
+      "title": "不在",
+      "lrc": "music/韩安旭/不在/lrc",
+      "pic": "music/韩安旭/不在/pic.jpg",
+      "url": "music/韩安旭/不在/url.m4a"
+    }
+  ],
   "geojson": [
     {
       "key": 1,
@@ -2019,23 +2246,6 @@
       "key": 404,
       "path": "geojson/820000.json",
       "filename": "820000.json"
-    }
-  ],
-  "image": [
-    {
-      "key": 1,
-      "path": "image/bing/2023-08-22.jpg",
-      "filename": "2023-08-22.jpg"
-    },
-    {
-      "key": 2,
-      "path": "image/bing/2023-11-09.jpg",
-      "filename": "2023-11-09.jpg"
-    },
-    {
-      "key": 3,
-      "path": "image/bing/2023-11-22.jpg",
-      "filename": "2023-11-22.jpg"
     }
   ]
 }
