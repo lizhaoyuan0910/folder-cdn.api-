@@ -1,0 +1,16 @@
+{
+  "name": "folder",
+  "version": "1.0.0",
+  "description": "some personal resource files",
+  "main": "README.md",
+  "scripts": {
+    "deploy": "node scripts/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heiemooa",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.merge": "^4.6.2",
+    "lodash.set": "^4.3.2"
+  }
+}
