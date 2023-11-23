@@ -14,6 +14,11 @@
       "key": 3,
       "path": "image/bing/2023-11-22.jpg",
       "filename": "2023-11-22.jpg"
+    },
+    {
+      "key": 4,
+      "path": "image/bing/2023-11-23.jpg",
+      "filename": "2023-11-23.jpg"
     }
   ],
   "music": [
