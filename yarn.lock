@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+deploy@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/deploy/-/deploy-1.0.3.tgz#ab846f5e228610054556d9b73df0b2f45af84fb0"
+  integrity sha512-muJVK8p8idCiE+8JaQzvGD+vS3KtoJYx6jLu0Bq36vl7bOJVpm9dZGgoHFi89kI88oHdwa32TUTZ0exYyT0KLQ==
+
 lodash.merge@^4.6.2:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
