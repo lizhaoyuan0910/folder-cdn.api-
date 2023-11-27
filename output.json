@@ -5,12 +5,13 @@
         "key": 1,
         "time": "2023-11-27",
         "url": {
-          "hd": "image/bing/2023-11-27/2023-11-27/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-27/2023-11-27/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-27/2023-11-27/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-27/2023-11-27/hd_thumbnail_480_270.jpg",
-          "uhd": "image/bing/2023-11-27/2023-11-27/uhd.jpg"
+          "hd": "image/bing/2023-11-27/hd.jpg",
+          "hd_gaussian_20": "image/bing/2023-11-27/hd_gaussian_20.jpg",
+          "hd_greyscale": "image/bing/2023-11-27/hd_greyscale.jpg",
+          "hd_thumbnail_480_270": "image/bing/2023-11-27/hd_thumbnail_480_270.jpg",
+          "uhd": "image/bing/2023-11-27/uhd.jpg"
         },
+        "title": "内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)",
         "color": {
           "Vibrant": "#426ebe",
           "DarkVibrant": "#5c3c18",
