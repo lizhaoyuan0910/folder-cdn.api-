@@ -10,7 +10,6 @@
   "author": "heiemooa",
   "license": "ISC",
   "dependencies": {
-    "deploy": "^1.0.3",
     "lodash.merge": "^4.6.2",
     "lodash.set": "^4.3.2",
     "lodash.size": "^4.2.0"
