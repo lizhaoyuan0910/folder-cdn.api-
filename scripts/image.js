@@ -61,7 +61,7 @@ function bing(dir, key = 1) {
             key: key++,
             time: path.basename(dir),
             url: {},
-            title: data.time,
+            title: data.title,
             color: data.color,
             base64: data.base64,
           });
